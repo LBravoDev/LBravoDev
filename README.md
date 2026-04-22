@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola! Me llamo Lautaro
 
-<!--
-**Lautaro-prog392/Lautaro-prog392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente me encuentro cursando la tecnicatura en desarrollo de software en la Universidad Provincial de Ezeiza.
+Adicionalmente, me estoy orientando al sector de ciberseguridad mediante el trayecto de Analista Junior en Ciberseguridad
+con objetivo a la certificación CCST Cibersecurity de Cisco Networking Academy.
 
-Here are some ideas to get you started:
+## Proyectos:
+- En el momento me encuentro trabajando en SIGLOR, un proyecto para la materia Estructuras de Datos y Algoritmos II.
+  SIGLOR es un Sistema Inteligente de Gestión Logística y Optimización de Rutas basado en teoría de grafos y algoritmos
+  matemáticos para encontrar la ruta más corta entre distintos nodos variables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías:
+- C/C++
+
+## Contacto:
+- bravolautaro2007ws@gmail.com
