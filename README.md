@@ -1,22 +1,19 @@
 <div align="center">
-  <h1>👋 Hola, soy Lautaro Bravo</h1>
-  <p><b>Estudiante de Desarrollo de Software | Cybersecurity Analyst, CCST</b></p>
-  <p><i>Apasionado por el desarrollo de software y la seguridad informática.</i></p>
+  <h1>👋 Hi, I'm Lautaro Bravo</h1>
+  <p><b>Software Development Student | Cybersecurity Analyst, CCST | Located in Argentina </b></p>
+  <p>📍 Located in Argentina 🇦🇷</p>
 </div>
 
 ---
 
 ## 👤 About Me
 
-- 🎓 Actualmente cursando el 2° año de la **Tecnicatura en Desarrollo de Software** en la **Universidad Provincial de Ezeiza**.
-- 🛡️ Formándome como **Junior Cybersecurity Analyst** con foco en la certificación **CCST** a través de **Cisco Academy**.
-- 🐧 Apasionado por la administración de sistemas Linux, la seguridad de redes y el análisis de vulnerabilidades.
-- 💼 Buscando mi primera oportunidad profesional en el sector IT como **Help Desk, Soporte Técnico o Analista Junior**.
+- 🎓 Currently in my 2nd year of the **Associate Degree in Software Development** at **Universidad Provincial de Ezeiza**.
+- 🛡️ Training as a **Junior Cybersecurity Analyst** with a focus on the **CCST** certification through **Cisco Academy**.
+- 💼 Actively seeking my first professional opportunity in the IT sector as a **Help Desk, Technical Support, Junior Analyst or Developer**.
 
-## Proyectos:
-- En el momento me encuentro trabajando en SIGLOR, un proyecto para la materia Estructuras de Datos y Algoritmos II.
-  SIGLOR es un Sistema Inteligente de Gestión Logística y Optimización de Rutas basado en teoría de grafos y algoritmos
-  matemáticos para encontrar la ruta más corta entre distintos nodos variables. Utiliza el lenguaje C++ y la librería Raylib para la interfaz gráfica.
+## Projects:
+- I am currently developing *SIGLOR* (Intelligent Logistics Management and Route Optimization System) for my Data Structures and Algorithms II course. It is an intelligent management system based on graph theory and mathematical algorithms (Dijkstra) to find the shortest path between dynamic nodes. Built with **C++** and utilizing the **Raylib** library for the graphical user interface.
 
 ## 🛠️ Tech Stack
 
@@ -31,18 +28,18 @@
 
 ---
 
-## 🤝 Conectemos / Contacto
+## 🤝 Connect with me / Contact
 
-¡Siempre estoy abierto a charlar sobre oportunidades laborales, proyectos de software o laboratorios de ciberseguridad! Podés encontrarme en:
+I am always open to discussing job opportunities or software development projects! You can reach me out at:
 
 <p align="left">
-  <a href="www.linkedin.com/in/lautaro-bravo-07b735364" target="_blank">
+  <a href="https://www.linkedin.com/in/lautaro-bravo-07b735364" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:bravolautaro2007ws@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bravolautaro2007ws@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
-- 🌐 **LinkedIn:** [linkedin.com/in/lautaro-bravo](www.linkedin.com/in/lautaro-bravo-07b735364)
-- 📧 **Correo Electrónico:** bravolautaro2007ws@gmail.com
+- 🌐 **LinkedIn:** [https://linkedin.com/in/lautaro-bravo](https://www.linkedin.com/in/lautaro-bravo-07b735364)
+- 📧 **Email:** bravolautaro2007ws@gmail.com
